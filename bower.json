@@ -1,9 +1,10 @@
 {
-  "name": "ng-perf",
-  "version": "0.1.0",
-  "homepage": "https://github.com/ansukla/ng-perf",
+  "name": "ng-perf-2",
+  "version": "0.1.1",
+  "homepage": "https://github.com/seeekr/ng-perf",
   "authors": [
-    "Ambika Sukla <ambika.sukla@gmail.com>"
+    "Ambika Sukla <ambika.sukla@gmail.com>",
+    "Denis Andrejew <da.colonel@gmail.com>"
   ],
   "description": "add-ons to improve angularjs app performance",
   "keywords": [
